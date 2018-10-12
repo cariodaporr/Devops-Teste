@@ -1,0 +1,27 @@
+3) Qual a diferença entre Verificação e Validação?
+
+Validação (o software é adequado?)
+Durante o processo de validação, os engenheiros de software devem entender 
+se as especificações
+do que foi desenvolvido — seja de uma fase ou do sistema como um 
+todo — são apropriadas e seguem os pré-requisitos
+estabelecidos durante o planejamento.
+
+Entender se o produto realmente é capaz de atender às expectativas do 
+cliente é o principal objetivo do processo
+de validação. Para que você entenda melhor, responda à 
+pergunta: “Estamos construindo o produto certo?”. 
+A busca por essa conclusão resume bem o processo.
+
+
+Verificação (o software foi feito da forma correta?)
+Existem diversas maneiras, metodologias, processos e linguagens de programação para se construir um software. 
+Assim como no tópico anterior, nesse caso também podemos utilizar uma pergunta para entender melhor o processo 
+de verificação de software: “estamos construindo o produto de forma correta?”
+
+De maneira simples, a verificação consiste em avaliar se existem falhas e problemas com o 
+software (seja no código, nas funcionalidades, interface, dentre muitos outros detalhes) antes que ele seja 
+entregue ao cliente ou disponibilizado para o público final.
+
+Nome: Felix Queiroz
+RA 1800352
