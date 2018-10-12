@@ -1,4 +1,5 @@
-# Tipos de testes
+# Quais são os tipos de teste?
+
 Testes de funcionalidade: Verifica se determinada funcionalidade tem o comportamento esperado. Um exemplo é um teste que tenta gerar a segunda via do boleto. O testador clica no botão de segunda via e verifica se o sistema gerou o arquivo corretamente.
 Testes de usabilidade: Verifica características não-funcionais de usabilidade. É mais usado para compreender e melhorar a interação do usuário com o software, do que para ‘encontrar erros’. Valida questões como: Satisfação subjetiva dos usuários com o sistema e Facilidade de aprendizado para uso do sistema.
 Testes de segurança: Avalia as vulnerabilidades do software para determinados tipos de ataques.
