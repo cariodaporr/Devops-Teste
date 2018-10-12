@@ -1,3 +1,4 @@
+# O que são testes do tipo Caixa Branca e Caixa preta?
 Teste de caixa branca
 O analista  tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e possibilita que sejam escolhidas partes específicas de
 um componente para serem avaliadas. Esse tipo de teste, também conhecido como teste estrutural
