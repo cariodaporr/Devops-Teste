@@ -1,0 +1,25 @@
+4) Quais os objetivos do teste?
+
+Testes
+O teste de segurança software é o momento em que o produto é executado 
+(por isso a necessidade de uma versão beta) para que os engenheiros possam 
+avaliar como será a interação do programa com o consumidor final.
+
+Dentre os principais modelos de teste de software podemos destacar seis principais:
+
+Teste Unitário – analisa as menores unidades possíveis de um software para garantir q
+ue cada parte funciona como deve;
+
+Teste de integração – confere se todas (ou algumas) partes estão dialogando e funcionando corretamente em conjunto;
+
+Teste de sistemas – avalia se o sistema atende aos pré-requisitos estabelecidos na concepção do projeto;
+
+Teste de aceitação – esse é, normalmente, o último teste realizado e tem como premissa 
+verificar se o software está perfeito para uso pelo consumidor final;
+Homologação – esse processo é feito pelo cliente ou outras partes interessadas e visa garantir, 
+uma vez mais, que o programa atende às especificidades e funciona perfeitamente;
+Teste de regressão – garante que novos componentes de um software dialoguem sem 
+falhas com os antigos. Fundamental para novas versões.
+
+Nome: Felix Queiroz
+RA: 1800352
